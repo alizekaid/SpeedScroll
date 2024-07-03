@@ -1,0 +1,55 @@
+# Flutter ve Dart için yaygın .gitignore
+# Geçici derleme dosyaları
+build/
+ios/Flutter/App.framework/
+ios/Flutter/Flutter.framework/
+*.iml
+*.class
+*.jar
+*.war
+*.ear
+*.hprof
+hs_err_pid*
+build/app/intermediates/merged_native_libs/debug/out/lib/arm64-v8a/libVkLayer_khronos_validation.so
+build/app/outputs/apk/debug/app-debug.apk
+build/app/intermediates/incremental/debug-mergeJavaRes/zip-cache/gty6NIoGZ0gXTGbUBB_iwpueAqI=
+
+# IntelliJ / Android Studio dosyaları
+.idea/
+*.ipr
+*.iws
+*.iml
+*.iws
+*.bak
+*.lock
+.idea/workspace.xml
+.idea/tasks.xml
+.idea/dictionaries
+.idea/vcs.xml
+
+# Log dosyaları
+*.log
+
+# macOS özel dosyalar
+.DS_Store
+.AppleDouble
+.LSOverride
+
+# Environment Variables
+.env
+
+#JSON file
+/android/app/google-services.json
+
+# Ignore gradle build files
+/build/
+/app/build/
+
+# Ignore generated gradle files
+/gradle/
+/local.properties
+
+#Sensitive Configuration Files
+/android/app/src/main/res/values/strings.xml
+/android/app/build.gradle
+

@@ -1,0 +1,1 @@
+ C:\\Users\\hasib\\OneDrive\ -\ Yildiz\ Technical\ University\\SpeedScroll\\SpeedScroll\\.dart_tool\\flutter_build\\78050d023805a7d56c57a01eeab3f6ea\\native_assets.yaml: 
